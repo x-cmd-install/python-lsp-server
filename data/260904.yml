@@ -7,7 +7,7 @@ about:
   head: a362006
   archived: false
   latestVersion: v1.14.0
-  collectedAt: 2026-09-04T19:56:02Z
+  collectedAt: 2026-09-04T20:45:28Z
 timeline:
   created: 2021-02-21
   lastCommit: 2026-07-27
@@ -81,6 +81,44 @@ total:
   openIssue: 150
   commit: 621
 ---
+path: /home/runner/.x-repo/github.com/python-lsp/python-lsp-server
+collectedAt: 2026-09-04T20:45:29Z
+loc:
+  Python:
+    code: 9080
+    comments: 759
+    blanks: 2129
+    files: 72
+  Json:
+    code: 651
+    comments: 0
+    blanks: 0
+    files: 3
+  Toml:
+    code: 144
+    comments: 22
+    blanks: 23
+    files: 1
+  Sh:
+    code: 12
+    comments: 2
+    blanks: 3
+    files: 1
+  Autoconf:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 861
+    blanks: 379
+    files: 7
+total:
+  code: 9894
+  comments: 1644
+  blanks: 2534
+  files: 85
 ---
 date: "2026-08-24"
 repo:
