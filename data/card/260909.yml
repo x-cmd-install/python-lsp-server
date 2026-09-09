@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.14.0"
   latestRelease: "v1.14.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T02:13:45Z
+  collectedAt: 2026-09-09T18:18:14Z
 timeline:
   created: 2021-02-21
   lastCommit: 2026-07-27
@@ -84,7 +84,7 @@ total:
   commit: 621
 ---
 path: /home/runner/.x-repo/github.com/python-lsp/python-lsp-server
-collectedAt: 2026-09-09T02:13:46Z
+collectedAt: 2026-09-09T18:18:16Z
 loc:
   Python:
     code: 9080
