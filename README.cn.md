@@ -4,7 +4,7 @@
 
 Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 
-![python-lsp-server](https://repo.x-cmd.io/python-lsp-server.svg)
+![python-lsp-server](https://repo.x-cmd.io/python-lsp-server.svg?lang=zh)
 
 ## 安装
 
@@ -21,11 +21,10 @@ x install python-lsp-server
 
 - **最新版本**: `v1.14.0` (2025-12-06)
 - **最近提交**: 2026-07-27
-- **发布时间**: 2025-12-06T16:14:28Z
 
 ## 流行度
 
-- **Star**: 2,593 · **Fork**: 248 · **开放 issue**: 360 · **贡献者**: 167
+- **Star**: 2,594 · **Fork**: 248 · **开放 issue**: 360 · **贡献者**: 167
 
 ## 累计统计
 
@@ -70,4 +69,4 @@ python-lsp-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:12:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:49:08Z._

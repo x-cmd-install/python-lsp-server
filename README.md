@@ -21,11 +21,10 @@ x install python-lsp-server
 
 - **Latest**: `v1.14.0` (2025-12-06)
 - **Last commit**: 2026-07-27
-- **Published**: 2025-12-06T16:14:28Z
 
 ## Popularity
 
-- **Stars**: 2,593 · **Forks**: 248 · **Open issues**: 360 · **Contributors**: 167
+- **Stars**: 2,594 · **Forks**: 248 · **Open issues**: 360 · **Contributors**: 167
 
 ## Totals (cumulative)
 
@@ -66,8 +65,8 @@ Lowest-scoring checks:
 Install metadata for python-lsp-server lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `python-lsp-server` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/python-lsp-server.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/python-lsp-server.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:12:01Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:49:07Z._
