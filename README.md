@@ -12,6 +12,28 @@ Fork of the python-language-server project, maintained by the Spyder IDE team an
 x install python-lsp-server
 ```
 
+## Code insight
+
+Total: **9,894** lines of code across **78** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 9,080 | 759 | 2,129 | 72 |
+| Json | 651 | 0 | 0 | 3 |
+| Toml | 144 | 22 | 23 | 1 |
+| Sh | 12 | 2 | 3 | 1 |
+| Autoconf | 7 | 0 | 0 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.7 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+
 ## Source
 
 - **Upstream**: <https://github.com/python-lsp/python-lsp-server>
@@ -34,31 +56,12 @@ x install python-lsp-server
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 5 | 4 | 0 | 1 | 10 |
-| 360d | 2025-09-15 | 2 | 17 | 7 | 3 | 17 | 17 |
-
-## Code size
-
-Total: **9,894** lines of code across **78** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 9,080 | 759 | 2,129 | 72 |
-| Json | 651 | 0 | 0 | 3 |
-| Toml | 144 | 22 | 23 | 1 |
-| Sh | 12 | 2 | 3 | 1 |
-| Autoconf | 7 | 0 | 0 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.7 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+| 30d | 2026-08-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 4 | 4 | 0 | 1 | 10 |
+| 90d | 2026-06-13 | 0 | 5 | 4 | 0 | 1 | 10 |
+| last180d | 2026-03-15 | 0 | 8 | 4 | 3 | 5 | 10 |
+| 360d | 2025-09-16 | 2 | 17 | 7 | 3 | 17 | 17 |
+| last720d | 2024-09-21 | 6 | 41 | 12 | 15 | 43 | 40 |
 
 ## Improve this data
 
@@ -69,4 +72,4 @@ Install metadata for python-lsp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:49:07Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:24:44Z._
