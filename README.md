@@ -31,8 +31,8 @@ Overall score: **5.7 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 0 | 4 | 4 | 0 | 1 | 1 |
-| 90d | 2026-06-17 | 0 | 5 | 4 | 0 | 1 | 10 |
-| last180d | 2026-03-19 | 0 | 8 | 4 | 3 | 5 | 10 |
-| 360d | 2025-09-20 | 2 | 17 | 7 | 3 | 17 | 17 |
-| last720d | 2024-09-25 | 6 | 41 | 12 | 15 | 43 | 40 |
+| 30d | 2026-08-17 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 0 | 3 | 4 | 0 | 1 | 1 |
+| 90d | 2026-06-18 | 0 | 5 | 4 | 0 | 1 | 10 |
+| last180d | 2026-03-20 | 0 | 8 | 4 | 3 | 5 | 10 |
+| 360d | 2025-09-21 | 2 | 17 | 7 | 3 | 17 | 17 |
+| last720d | 2024-09-26 | 6 | 41 | 12 | 15 | 43 | 40 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for python-lsp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T02:33:08Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T02:28:51Z._
