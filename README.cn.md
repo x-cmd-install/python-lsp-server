@@ -4,7 +4,7 @@
 
 Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 
-![python-lsp-server](https://repo.x-cmd.io/python-lsp-server.svg?lang=zh)
+[![x-cmd/install — python-lsp-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/python-lsp-server.svg?lang=zh)](https://x-cmd.com/install/python-lsp-server)
 
 ## 安装
 
@@ -46,22 +46,22 @@ x install python-lsp-server
 
 ## 流行度
 
-- **Star**: 2,596 · **Fork**: 248 · **开放 issue**: 360 · **贡献者**: 167
+- **Star**: 2,596 · **Fork**: 249 · **开放 issue**: 360 · **贡献者**: 167
 
 ## 累计统计
 
-- **发布数**: 35 · **已合并 PR**: 254 · **开放 PR**: 22 · **已关闭 issue**: 210 · **开放 issue**: 150 · **提交数**: 621
+- **发布数**: 35 · **已合并 PR**: 254 · **开放 PR**: 23 · **已关闭 issue**: 210 · **开放 issue**: 150 · **提交数**: 621
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 1 | 4 | 0 | 1 | 1 |
-| 90d | 2026-06-20 | 0 | 5 | 4 | 0 | 1 | 10 |
-| last180d | 2026-03-22 | 0 | 8 | 4 | 3 | 5 | 10 |
-| 360d | 2025-09-23 | 2 | 17 | 7 | 3 | 17 | 17 |
-| last720d | 2024-09-28 | 6 | 41 | 12 | 15 | 43 | 40 |
+| 30d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 1 | 5 | 0 | 1 | 1 |
+| 90d | 2026-06-22 | 0 | 5 | 5 | 0 | 1 | 10 |
+| last180d | 2026-03-24 | 0 | 8 | 5 | 3 | 5 | 10 |
+| 360d | 2025-09-25 | 2 | 17 | 8 | 3 | 16 | 17 |
+| last720d | 2024-09-30 | 6 | 41 | 13 | 15 | 43 | 40 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ python-lsp-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T02:17:17Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T02:28:46Z._
