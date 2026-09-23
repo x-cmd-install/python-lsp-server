@@ -4,7 +4,7 @@
 
 Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 
-[![x-cmd/install — python-lsp-server Code Quality Monitoring Repo Card](https://repo.x-cmd.io/python-lsp-server.svg)](https://x-cmd.com/install/python-lsp-server)
+[![x-cmd/install — python-lsp-server Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/python-lsp-server.svg)](https://x-cmd.com/install/python-lsp-server)
 
 ## Install
 
@@ -30,8 +30,8 @@ Overall score: **5.7 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,598 · **Forks**: 250 · **Open issues**: 360 · **Contributors**: 167
+- **Stars**: 2,598 · **Forks**: 251 · **Open issues**: 360 · **Contributors**: 167
 
 ## Totals (cumulative)
 
-- **Releases**: 35 · **Merged PRs**: 254 · **Open PRs**: 24 · **Closed issues**: 210 · **Open issues**: 150 · **Commits**: 621
+- **Releases**: 35 · **Merged PRs**: 254 · **Open PRs**: 25 · **Closed issues**: 210 · **Open issues**: 150 · **Commits**: 621
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 1 | 6 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 5 | 6 | 0 | 1 | 10 |
-| last180d | 2026-03-26 | 0 | 8 | 6 | 3 | 4 | 10 |
-| 360d | 2025-09-27 | 2 | 17 | 9 | 3 | 16 | 17 |
-| last720d | 2024-10-02 | 6 | 41 | 14 | 15 | 43 | 40 |
+| 30d | 2026-08-24 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 1 | 7 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 5 | 7 | 0 | 1 | 10 |
+| last180d | 2026-03-27 | 0 | 8 | 7 | 3 | 4 | 10 |
+| 360d | 2025-09-28 | 2 | 17 | 10 | 3 | 16 | 17 |
+| last720d | 2024-10-03 | 6 | 41 | 15 | 15 | 43 | 40 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for python-lsp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T02:30:32Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T02:31:25Z._
