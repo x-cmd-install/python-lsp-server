@@ -30,9 +30,9 @@ x install python-lsp-server
 
 评分最低的几项:
 
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -46,22 +46,22 @@ x install python-lsp-server
 
 ## 流行度
 
-- **Star**: 2,599 · **Fork**: 251 · **开放 issue**: 360 · **贡献者**: 167
+- **Star**: 2,600 · **Fork**: 252 · **开放 issue**: 360 · **贡献者**: 167
 
 ## 累计统计
 
-- **发布数**: 35 · **已合并 PR**: 254 · **开放 PR**: 25 · **已关闭 issue**: 210 · **开放 issue**: 150 · **提交数**: 621
+- **发布数**: 35 · **已合并 PR**: 254 · **开放 PR**: 26 · **已关闭 issue**: 210 · **开放 issue**: 150 · **提交数**: 621
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-01 | 0 | 0 | 6 | 0 | 0 | 0 |
-| 90d | 2026-07-02 | 0 | 5 | 7 | 0 | 1 | 10 |
-| last180d | 2026-04-03 | 0 | 7 | 7 | 3 | 3 | 10 |
-| 360d | 2025-10-05 | 2 | 16 | 10 | 3 | 14 | 17 |
-| last720d | 2024-10-10 | 6 | 41 | 15 | 15 | 43 | 40 |
+| 30d | 2026-09-01 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-08-02 | 0 | 0 | 7 | 0 | 0 | 0 |
+| 90d | 2026-07-03 | 0 | 5 | 8 | 0 | 1 | 10 |
+| last180d | 2026-04-04 | 0 | 7 | 8 | 3 | 3 | 10 |
+| 360d | 2025-10-06 | 2 | 16 | 11 | 3 | 14 | 17 |
+| last720d | 2024-10-11 | 6 | 41 | 16 | 15 | 43 | 40 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ python-lsp-server 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T03:05:32Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T03:11:53Z._
