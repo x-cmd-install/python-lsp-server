@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,604 · **Forks**: 255 · **Open issues**: 360 · **Contributors**: 167
+- **Stars**: 2,603 · **Forks**: 255 · **Open issues**: 360 · **Contributors**: 167
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 8 | 0 | 0 | 0 |
-| 90d | 2026-07-15 | 0 | 4 | 11 | 0 | 1 | 2 |
-| last180d | 2026-04-16 | 0 | 7 | 11 | 2 | 2 | 10 |
-| 360d | 2025-10-18 | 2 | 16 | 14 | 3 | 11 | 17 |
-| last720d | 2024-10-23 | 6 | 41 | 19 | 15 | 42 | 40 |
+| 30d | 2026-09-14 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last60d | 2026-08-15 | 0 | 0 | 8 | 0 | 0 | 0 |
+| 90d | 2026-07-16 | 0 | 4 | 11 | 0 | 1 | 2 |
+| last180d | 2026-04-17 | 0 | 7 | 11 | 2 | 2 | 10 |
+| 360d | 2025-10-19 | 2 | 16 | 14 | 3 | 11 | 17 |
+| last720d | 2024-10-24 | 6 | 41 | 19 | 15 | 42 | 40 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for python-lsp-server lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T04:37:50Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T02:47:18Z._
